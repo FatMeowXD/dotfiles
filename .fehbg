@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-center --randomize '/home/meow/Wallpaper/asuka.png' 
